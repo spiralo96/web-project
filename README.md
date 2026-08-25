@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello
-=======
-Hiii
->>>>>>> a9fe1cd (Read)
+Hello welcome to my personal project...
