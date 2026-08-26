@@ -5,7 +5,11 @@
 
 - **`<br>`** ~ *Breaks line (works like \n or enter button).*
 
-- **`<img>`** ~ *Used ot define images in html.*<br> - `src` attribute is used to define the image to use. path of the image is written under quotes*`src = "yt.png"`*.<br>- `alt` attribute is ued to denote the image in case the image is not loaded. it is also written under quotes *`alt = "a dog walking"`*.<br>- `height` attribute defines height of the img, written in quotes *`height = "100"`*.<br>- `width`attribute defines width of the img, written in quotes *`width = "300"`*.
+- **`<img>`** ~ *Used ot define images in html.*  
+    - `src` attribute is used to define the image to use. path of the image is written under quotes*`src = "yt.png"`*.  
+    - `alt` attribute is ued to denote the image in case the image is not loaded. it is also written under quotes *`alt = "a dog walking"`*.  
+    - `height` attribute defines height of the img, written in quotes *`height = "100"`*.  
+    - `width`attribute defines width of the img, written in quotes *`width = "300"`*.
 <h3>> With Endtag</h3>
 
 - **`<html>....</html>`** ~ *Inside which whole site and everything lies.*  
@@ -18,4 +22,5 @@
 
 - **`<p>....</p>`** ~ *Used to add paragraph text where the text in "...." is showed.*  
 
-- **`<a>....</a>`** ~ *Used to define links. The visible indicator is written in "....".*<br>   - `href` attribute is used to define target site (site name is usually written in quotes).
+- **`<a>....</a>`** ~ *Used to define links. The visible indicator is written in "....".*  
+    - `href` attribute is used to define target site (site name is usually written in quotes).
