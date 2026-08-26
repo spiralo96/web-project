@@ -1,4 +1,4 @@
-# About Tags in HTML
+# 📜 About Tags in HTML
 <h3>> Without Endtag</h3>
 
 - **`<!DOCTYPE html>`** ~ *File deteminer for html files.*  
