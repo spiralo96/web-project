@@ -21,6 +21,8 @@
 - **`<h1>....</h1>`** ~ *Used to add heading in html, "...." part is displayed as heading. Contains total of 6 variations from h1 to h6 (where h6 being the lowest).*  
 
 - **`<p>....</p>`** ~ *Used to add paragraph text where the text in "...." is showed.*  
+    - `style` attribute is used to add style to an element such as color, font, size, and more. EX: *`<p style = "color:red;"> hello </p>`*
+
 
 - **`<a>....</a>`** ~ *Used to define links. The visible indicator is written in "....".*  
     - `href` attribute is used to define target site (site name is usually written in quotes).
